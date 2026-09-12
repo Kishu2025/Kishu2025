@@ -16,7 +16,7 @@ Hello! I'm **Kishu2025**, a passionate **Full Stack Developer** and **Computer S
 
 - 🎯 **Role**: Full Stack Developer & Computer Specialist
 - 🐍 **Primary Language**: Python 3
-- 💻 **Tech Stack**: Python, HTML, CSS, JavaScript
+- 💻 **Tech Stack**: Python, HTML, CSS, JavaScript, Dart, TypeScript
 - 🔬 **Current Focus**: Data Science & Innovative Projects
 - 🌍 **Platform Expertise**: Linux & Windows Systems
 
@@ -27,15 +27,84 @@ Hello! I'm **Kishu2025**, a passionate **Full Stack Developer** and **Computer S
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python%203-FFD700?style=flat-square&logo=python&logoColor=0047AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=0047AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0047AB?style=flat-square&logo=typescript&logoColor=FFD700)
 ![HTML5](https://img.shields.io/badge/HTML5-0047AB?style=flat-square&logo=html5&logoColor=FFD700)
 ![CSS3](https://img.shields.io/badge/CSS3-0047AB?style=flat-square&logo=css3&logoColor=FFD700)
+![Dart](https://img.shields.io/badge/Dart-FFD700?style=flat-square&logo=dart&logoColor=0047AB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0047AB?style=flat-square&logo=kotlin&logoColor=FFD700)
 
 ### **Areas of Expertise**
 - 🐍 **Backend Development**: Python, REST APIs
-- 🎨 **Frontend Development**: HTML, CSS, JavaScript
+- 🎨 **Frontend Development**: HTML, CSS, JavaScript, TypeScript
 - 📊 **Data Science**: Data Analysis, Visualization
 - 🖥️ **Systems**: Linux & Windows Administration
+- 📱 **Mobile Development**: Flutter & Dart
 - 🔧 **Full Stack Solutions**: End-to-end development
+
+---
+
+## 🎯 Featured Projects
+
+### **📁 File Manager Projects**
+A comprehensive series of file management applications built with different technologies:
+
+| Project | Language | Repository |
+|---------|----------|------------|
+| **File Manager 1** | Dart | [View Repo](https://github.com/Kishu2025/file-manager-1) |
+| **File Manager 2** | Dart | [View Repo](https://github.com/Kishu2025/file-manager2) |
+| **File Manager 3** | Dart | [View Repo](https://github.com/Kishu2025/filemanager_3) |
+| **File Manager 4** | Dart | [View Repo](https://github.com/Kishu2025/file_manager_4) |
+| **File Manager 5** | TypeScript | [View Repo](https://github.com/Kishu2025/file_manager_5) |
+| **File Manager 6** | TypeScript | [View Repo](https://github.com/Kishu2025/file_manager_6) |
+| **File Manager 7** | Dart | [View Repo](https://github.com/Kishu2025/file_manager_7) |
+| **File Manager 8** | Dart | [View Repo](https://github.com/Kishu2025/file_manager_8) |
+| **File Manager 9** | Dart | [View Repo](https://github.com/Kishu2025/file_manager_9) |
+| **File Manager 11** | Dart | [View Repo](https://github.com/Kishu2025/file_manager_11) |
+| **File Manager 15** | Dart | [View Repo](https://github.com/Kishu2025/file_manager_15) |
+
+---
+
+### **🛒 E-Commerce Projects**
+Building scalable shopping platforms and store management systems:
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **Ram Thakur Stores** | An Electronic Shop Platform | [View Repo](https://github.com/Kishu2025/ram-thakur-stores-) |
+| **Ram Thakur Stores 2** | Enhanced Store Version | [View Repo](https://github.com/Kishu2025/Ramthakurstores2) |
+| **Ram Thakur Stores 3** | Latest Iteration | [View Repo](https://github.com/Kishu2025/Ram-Thakur-Stores-3) |
+
+---
+
+### **📱 Mobile & Application Projects**
+Mobile and cross-platform applications:
+
+| Project | Language | Repository |
+|---------|----------|------------|
+| **First App Notes** | Dart | [View Repo](https://github.com/Kishu2025/First-app-notes) |
+| **KNotes** | Kotlin | [View Repo](https://github.com/Kishu2025/KNotes) |
+| **News App** | - | [View Repo](https://github.com/Kishu2025/NewsApp1) |
+
+---
+
+### **🌐 Web & UI Projects**
+Frontend and web development projects:
+
+| Project | Language | Repository |
+|---------|----------|------------|
+| **Kwallp** | HTML | [View Repo](https://github.com/Kishu2025/Kwallp) |
+| **LRW** | TypeScript | [View Repo](https://github.com/Kishu2025/LRW) |
+| **RTL5** | TypeScript | [View Repo](https://github.com/Kishu2025/RTL5) |
+| **FiW Status 1** | CSS | [View Repo](https://github.com/Kishu2025/fiwstatus1) |
+
+---
+
+### **🔗 Other Projects**
+
+| Project | Language | Repository |
+|---------|----------|------------|
+| **Delta Webhook** | Python | [View Repo](https://github.com/Kishu2025/Delta-webhook) |
+| **DDLJ** | Dart | [View Repo](https://github.com/Kishu2025/ddlj) |
+| **Demo** | - | [View Repo](https://github.com/Kishu2025/Demo) |
 
 ---
 
@@ -44,7 +113,9 @@ Hello! I'm **Kishu2025**, a passionate **Full Stack Developer** and **Computer S
 I'm currently exploring and building projects in:
 - **Data Science**: Machine learning models, data analysis, and visualization
 - **Full Stack Applications**: Creating robust web applications
-- **Open Source**: Contributing to community projects
+- **File Management Systems**: Building efficient file handling solutions
+- **E-Commerce Platforms**: Developing scalable shopping experiences
+- **Cross-Platform Apps**: Mobile and desktop applications
 - **Innovative Solutions**: Building meaningful technology
 
 ---
@@ -54,6 +125,8 @@ I'm currently exploring and building projects in:
 <div align="center">
   
 ![GitHub Stats](https://img.shields.io/badge/GitHub%20Profile-Visit%20-0047AB?style=for-the-badge&logo=github)
+
+**All Repositories**: [View Complete Portfolio](https://github.com/Kishu2025?tab=repositories)
 
 </div>
 
@@ -88,6 +161,8 @@ I believe in:
 - 💾 Comfortable navigating both Linux and Windows ecosystems
 - 🚀 Always eager to learn new technologies and frameworks
 - 🎓 Passionate about data science and its applications
+- 📁 Experienced in building robust file management systems
+- 🛒 Skilled in creating e-commerce solutions
 - 🤝 Love open-source contributions and community projects
 
 ---
