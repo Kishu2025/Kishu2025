@@ -12,7 +12,7 @@
 
 ## 💼 About Me
 
-Hello! I'm **Kishu2025**, a passionate **Full Stack Developer** and **Computer Specialist** with expertise in building scalable applications. I'm a Linux & Windows power user dedicated to creating efficient, elegant solutions to complex problems.
+Hello! I'm **Kishan Singha**, a passionate **Full Stack Developer** and **Computer Specialist** with expertise in building scalable applications. I'm a Linux & Windows power user dedicated to creating efficient, elegant solutions to complex problems.
 
 - 🎯 **Role**: Full Stack Developer & Computer Specialist
 - 🐍 **Primary Language**: Python 3
@@ -40,6 +40,16 @@ Hello! I'm **Kishu2025**, a passionate **Full Stack Developer** and **Computer S
 - 🖥️ **Systems**: Linux & Windows Administration
 - 📱 **Mobile Development**: Flutter & Dart
 - 🔧 **Full Stack Solutions**: End-to-end development
+
+---
+
+## 📥 Download My Profile as PDF
+
+<div align="center">
+
+**[📄 Download Complete Profile as PDF](https://github.com/Kishu2025/Kishu2025/raw/main/Kishan_Singha_Profile.pdf)**
+
+</div>
 
 ---
 
